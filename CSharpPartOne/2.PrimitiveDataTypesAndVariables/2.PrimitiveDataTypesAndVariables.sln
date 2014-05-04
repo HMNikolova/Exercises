@@ -5,6 +5,10 @@ VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.FiveVariables", "1.FiveVariables\1.FiveVariables.csproj", "{AD7BA2F6-033F-4DEC-9C23-79300CD71669}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.FloatOrDouble", "FloatOrDouble\2.FloatOrDouble.csproj", "{CE59681E-EC13-4125-B4FC-70C02F934249}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.CompareFloatingPointNumers", "3.CompareFloatingPointNumers\3.CompareFloatingPointNumers.csproj", "{BCF111D9-2544-4050-B524-2AF133A43CC7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{AD7BA2F6-033F-4DEC-9C23-79300CD71669}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AD7BA2F6-033F-4DEC-9C23-79300CD71669}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AD7BA2F6-033F-4DEC-9C23-79300CD71669}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE59681E-EC13-4125-B4FC-70C02F934249}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE59681E-EC13-4125-B4FC-70C02F934249}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE59681E-EC13-4125-B4FC-70C02F934249}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE59681E-EC13-4125-B4FC-70C02F934249}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCF111D9-2544-4050-B524-2AF133A43CC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCF111D9-2544-4050-B524-2AF133A43CC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCF111D9-2544-4050-B524-2AF133A43CC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCF111D9-2544-4050-B524-2AF133A43CC7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
