@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("7.PrintCurrentDateAndTime")]
+[assembly: AssemblyTitle("07.PrintCurrentDateAndTime")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("7.PrintCurrentDateAndTime")]
+[assembly: AssemblyProduct("07.PrintCurrentDateAndTime")]
 [assembly: AssemblyCopyright("Copyright ©  2014")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("a1c25b41-cf78-4761-bd4a-2be1ae2412fa")]
+[assembly: Guid("b1e12272-0f09-4b23-a61d-a57dec0d333f")]
 
 // Version information for an assembly consists of the following four values:
 //
