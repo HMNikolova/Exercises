@@ -1,15 +1,14 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿// 4. Write a program to print the numbers 1, 101 and 1001.
 
-namespace _04.PrintNumber1_101_1001
+using System;
+
+class PrintNumber1_101_1001
 {
-    class Program
+    static void Main()
     {
-        static void Main(string[] args)
-        {
-        }
+        Console.WriteLine(1);
+        Console.WriteLine(101);
+        Console.WriteLine(1001);
     }
 }
+

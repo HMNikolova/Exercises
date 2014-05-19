@@ -1,15 +1,13 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿// 3. Modify the application to print your name.
 
-namespace _03.PrintMyName
+using System;
+
+class PrintMyName
 {
-    class Program
+    static void Main()
     {
-        static void Main(string[] args)
-        {
-        }
+        Console.WriteLine("My name is Hristina Nikolova.");
+
     }
 }
+
