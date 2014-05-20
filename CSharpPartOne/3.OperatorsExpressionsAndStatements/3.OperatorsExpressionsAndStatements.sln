@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.OddOrEven", "01.OddOrEve
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.DevideByFiveAndSeven", "02.DevideByFiveAndSeven\02.DevideByFiveAndSeven.csproj", "{1E712EEA-59E7-44CC-9E3A-C353F8B59452}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.RectangleArea", "03.RectangleArea\03.RectangleArea.csproj", "{5E5FEBBA-9A45-4859-86C9-8585DDC4F4C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.ThirdDigit", "04.ThirdDigit\04.ThirdDigit.csproj", "{780EA0BD-B36E-4821-92B2-9EE366F56FBE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{1E712EEA-59E7-44CC-9E3A-C353F8B59452}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1E712EEA-59E7-44CC-9E3A-C353F8B59452}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1E712EEA-59E7-44CC-9E3A-C353F8B59452}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E5FEBBA-9A45-4859-86C9-8585DDC4F4C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E5FEBBA-9A45-4859-86C9-8585DDC4F4C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E5FEBBA-9A45-4859-86C9-8585DDC4F4C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E5FEBBA-9A45-4859-86C9-8585DDC4F4C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{780EA0BD-B36E-4821-92B2-9EE366F56FBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{780EA0BD-B36E-4821-92B2-9EE366F56FBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{780EA0BD-B36E-4821-92B2-9EE366F56FBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{780EA0BD-B36E-4821-92B2-9EE366F56FBE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
