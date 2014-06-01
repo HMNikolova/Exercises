@@ -5,6 +5,7 @@ class JustHangmanGame
     static void Main(string[] args)
     {
         //champion
+
         char c = 'c';
         char h = 'h';
         char a = 'a';
