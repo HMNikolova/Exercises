@@ -252,6 +252,7 @@ class JustHangmanGame
                if (command == "restart")
                {
                    Console.WriteLine("Do you really want to restart?");
+                   Console.WriteLine("If yes press Ctrl + O");
                    ConsoleKeyInfo key == Console.ReadKey();
                    if (key.Modifiers == ConsoleModifiers.Control && key.Key == ConsoleKey.o)
                    
