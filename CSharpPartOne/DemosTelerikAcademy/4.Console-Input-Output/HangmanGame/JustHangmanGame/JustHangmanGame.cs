@@ -230,8 +230,13 @@ class JustHangmanGame
                 {
                     Console.Write("{0}", hiddenChar);
                 }
+<<<<<<< HEAD
 
                 Console.WriteLine();
+=======
+                
+                Console.WhiteLine();
+>>>>>>> ad50e723505c11c1f1a544156feecd668a6c9f29
                 
                 if (isCShown && isHShown && isAShown && isMShown && isPShown && isIShown && isOShown && isNShown)
                 {
@@ -245,7 +250,11 @@ class JustHangmanGame
                     isNShown = false;
                     livesCount = 9;
                     Console.Clear();
+<<<<<<< HEAD
                     Console.WriteLine("Great job! You won!");
+=======
+                    Console.WhiteLine("Great job! You won!");
+>>>>>>> ad50e723505c11c1f1a544156feecd668a6c9f29
                 }
             }
 
@@ -253,8 +262,13 @@ class JustHangmanGame
                {
                    Console.WriteLine("Do you really want to restart?");
                    Console.WriteLine("If yes press Ctrl + O");
+<<<<<<< HEAD
                    ConsoleKeyInfo key = Console.ReadKey();
                    if (key.Modifiers == ConsoleModifiers.Control && key.Key == ConsoleKey.O)
+=======
+                   ConsoleKeyInfo key == Console.ReadKey();
+                   if (key.Modifiers == ConsoleModifiers.Control && key.Key == ConsoleKey.o)
+>>>>>>> ad50e723505c11c1f1a544156feecd668a6c9f29
                    
                    {
                     isCShown = false;
