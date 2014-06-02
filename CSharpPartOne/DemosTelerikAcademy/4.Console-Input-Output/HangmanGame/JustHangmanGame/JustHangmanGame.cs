@@ -28,7 +28,7 @@ class JustHangmanGame
 
         int livesCount = 9;
 
-
+        Console.WriteLine("_ _ _ _ _ _ _ _");
 
         while (true)
         {
@@ -36,8 +36,8 @@ class JustHangmanGame
             string command = "";
             command = Console.ReadLine();
 
-
-
+            
+              
             if (command == "view")
             {
                 Console.WriteLine("Your lives are {0}", livesCount);
@@ -137,14 +137,26 @@ class JustHangmanGame
                 }
                 if (letter != c && letter != h && letter != a && letter != m && letter != p && letter != i && letter != o && letter != n)
                 {
-                    Console.WriteLine("You made a huge mistake! Your lives now are {0}", livesCount);
                     livesCount--;
+                    Console.WriteLine("You made a huge mistake! Your lives now are {0}", livesCount);
+                    
                 }
 
                 if (livesCount == 0)
                 {
-                    Console.WriteLine("Game over!");
-                    break;
+                    Console.Clear();
+                    isCShown = false;
+                    isHShown = false;
+                    isAShown = false;
+                    isMShown = false;
+                    isPShown = false;
+                    isIShown = false;
+                    isOShown = false;
+                    isNShown = false;
+                    livesCount = 9;
+                    
+                    Console.WriteLine("Game over! Try again"); 
+                    
                 }
 
                 if (isCShown)
@@ -158,7 +170,7 @@ class JustHangmanGame
 
                 if (isHShown)
                 {
-                    Console.Write("{0} ", c);
+                    Console.Write("{0} ", h);
                 }
                 else
                 {
@@ -167,7 +179,7 @@ class JustHangmanGame
 
                 if (isAShown)
                 {
-                    Console.Write("{0} ", c);
+                    Console.Write("{0} ", a);
                 }
                 else
                 {
@@ -176,7 +188,7 @@ class JustHangmanGame
 
                 if (isMShown)
                 {
-                    Console.Write("{0} ", c);
+                    Console.Write("{0} ", m);
                 }
                 else
                 {
@@ -185,7 +197,7 @@ class JustHangmanGame
 
                 if (isPShown)
                 {
-                    Console.Write("{0} ", c);
+                    Console.Write("{0} ", p);
                 }
                 else
                 {
@@ -194,7 +206,7 @@ class JustHangmanGame
 
                 if (isIShown)
                 {
-                    Console.Write("{0} ", c);
+                    Console.Write("{0} ", i);
                 }
                 else
                 {
@@ -203,7 +215,7 @@ class JustHangmanGame
 
                 if (isOShown)
                 {
-                    Console.Write("{0} ", c);
+                    Console.Write("{0} ", o);
                 }
                 else
                 {
@@ -212,18 +224,56 @@ class JustHangmanGame
 
                 if (isNShown)
                 {
-                    Console.Write("{0} ", c);
+                    Console.Write("{0} ", n);
                 }
                 else
                 {
                     Console.Write("{0}", hiddenChar);
                 }
+
+                Console.WriteLine();
+                
+                if (isCShown && isHShown && isAShown && isMShown && isPShown && isIShown && isOShown && isNShown)
+                {
+                    isCShown = false;
+                    isHShown = false;
+                    isAShown = false;
+                    isMShown = false;
+                    isPShown = false;
+                    isIShown = false;
+                    isOShown = false;
+                    isNShown = false;
+                    livesCount = 9;
+                    Console.Clear();
+                    Console.WriteLine("Great job! You won!");
+                }
             }
+
+               if (command == "restart")
+               {
+                   Console.WriteLine("Do you really want to restart?");
+                   Console.WriteLine("If yes press Ctrl + O");
+                   ConsoleKeyInfo key = Console.ReadKey();
+                   if (key.Modifiers == ConsoleModifiers.Control && key.Key == ConsoleKey.O)
+                   
+                   {
+                    isCShown = false;
+                    isHShown = false;
+                    isAShown = false;
+                    isMShown = false;
+                    isPShown = false;
+                    isIShown = false;
+                    isOShown = false;
+                    isNShown = false;
+                    livesCount = 9;
+                    Console.Clear();
+                    Console.WriteLine("You just restarted the game!");
+                    Console.WriteLine("Now you can start again guessing!");
+                   }
+                   
+               }
 
         }
     }
 
 }
-
-
-
