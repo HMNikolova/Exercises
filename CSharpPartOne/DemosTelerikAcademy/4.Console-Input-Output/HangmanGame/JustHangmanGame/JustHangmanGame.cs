@@ -218,6 +218,9 @@ class JustHangmanGame
                 {
                     Console.Write("{0}", hiddenChar);
                 }
+                
+                
+                
             }
 
         }
