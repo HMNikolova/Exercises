@@ -4,47 +4,54 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace JustCars
-{
-    struct Car
-    {
-        public int x;
-        public int y;
-        public ConsoleColor color;
-    }
 
-    class JustCars
-    {
-        static void PrintOnPosition(int x, int y, char c,
-        ConsoleColor color = ConsoleColor.Gray)
+        struct Car
         {
-
-            Console.SetCursorPosition(x, y);//Мести курсора
-            Console.ForegroundColor = color;//цвета, който изписваме да е равен на color
-            Console.Write(c);
+            public int x;
+            public int y;
+            public char c;
+            public ConsoleColor color;
         }
-
-        static void Main()
+    
+        class JustCars
         {
-            //С долните два реда махаме скролбара
-            Console.BufferHeight = Console.WindowHeight = 20;
-            Console.BufferWidth = Console.WindowWidth = 30;
-
-            PrintOnPosition(0, 0, 'N', ConsoleColor.Yellow);//позиция горе-ляво
-            PrintOnPosition(10, 10, 'X');
-
-            while (true)
+            static void PrintOnPosition(int x, int y, char c,
+            ConsoleColor color = ConsoleColor.Gray)
             {
-                // Move cars  
-                // Move our car (key pressed)
-                // Check if other cars are hitting as
-                // Clear the console
-                // Redraw playfield
-                // Draw info
-                // Slow down program
+    
+                Console.SetCursorPosition(x, y);//Мести курсора
+                Console.ForegroundColor = color;//цвета, който изписваме да е равен на color
+                Console.Write(c);
             }
+            int playfieldWidth = 5;
+            static void Main()
+            {
+                //С долните два реда махаме скролбара
+                Console.BufferHeight = Console.WindowHeight = 20;
+                Console.BufferWidth = Console.WindowWidth = 30;
+                Car userCar = new Car();
+                userCar.x = 2;
+                userCar.y = Console.WindowHeight - 1;
+                userCar.c = '@';
+                userCar.color = ConsoleColor.Yellow;
+                //PrintOnPosition(0, 0, 'N', ConsoleColor.Yellow);//позиция горе-ляво
+                //PrintOnPosition(10, 10, 'X');
+    
+                while (true)
+                {
+                    // Move cars 
+                    if (Console.KeyAvailable)
+                    {
+                        ConsoleKeyInfo pressedKey = Console.ReadKey(true);
+                    }
+                    // Move our car (key pressed)
+                    // Check if other cars are hitting as
+                    // Clear the console
+                    Console.Clear();
+                    // Redraw playfield
+                    // Draw info
+                    // Slow down program
+                }
+            }
+    
         }
-
-    }
-
-}
