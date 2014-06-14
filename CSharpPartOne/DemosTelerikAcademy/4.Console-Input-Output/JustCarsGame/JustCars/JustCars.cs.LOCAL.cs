@@ -1,4 +1,4 @@
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -12,7 +12,7 @@ struct Object
     public ConsoleColor color;
 }
 
-class JustCars
+class Program
 {
     static void PrintOnPosition(int x, int y, char c,
         ConsoleColor color = ConsoleColor.Gray)
