@@ -29,7 +29,7 @@ namespace JustSnake
                 new Position(1, 0), //down
                 new Position(-1, 0), //top
             };
-
+             
             Queue<Position> snakeElements = new Queue<Position>();
             for (int i = 0; i <= 5; i++)
             {
