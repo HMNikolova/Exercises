@@ -84,9 +84,12 @@ namespace JustSnake
                 Position nextDirection = directions[drection];
                 Position snakeNewHead = new Position(snakeHead.row + nextDirection.row, snakeHead.col + nextDirection.col);
                 
-                if (snakeNewHead.row < 0 || snakeNewHead.col < 0 || snakeNewHead.row >= Console.WindowHeight || snakeNewHead.col >= Console.WindowWidth)
+                if (snakeNewHead.row < 0 || snakeNewHead.col < 0 || snakeNewHead.row >= Console.WindowHeight || snakeNewHead.col >= Console.WindowWidth || snakeElements.Contains(snakeNewHead))
                 {
-                    //56:10
+                    Console.SetCursorPosition(0, 0);
+                    Console.WriteLine("Game over!");
+                    Console.WriteLine("Your points are: {0}", (snakeElements.Count - 6) * 1);
+                    return;
                 }
                 snakeElements.Enqueue(snakeNewHead);
                 
@@ -100,7 +103,7 @@ namespace JustSnake
              }
                 
                 
-                
+               //1:06:00 
                 
                 Console.Clear();
                 
