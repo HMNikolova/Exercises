@@ -1,9 +1,10 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Collections;
+using System.Threading;
 
 namespace JustSnake
 {
@@ -30,7 +31,9 @@ namespace JustSnake
                 new Position(-1, 0), //up
             };
              int direction = 0; //0
-             
+             Console.BufferHeight = Console.WindowHeihgt; 
+             Random rand = new Random();
+            //42:13
             Queue<Position> snakeElements = new Queue<Position>();
             for (int i = 0; i <= 5; i++)
             {
@@ -46,8 +49,11 @@ namespace JustSnake
 
             while (true)
             {
+                if (Console.KeyAvailable)
+            {
+                
                 ConsoleKeyInfo userInput = Console.ReadKey();
-                //Console.Clear();
+                
                 if (userInput.Key == ConsoleKey.LeftArrow)
                 {
                     direction = 1;
@@ -65,6 +71,8 @@ namespace JustSnake
                     direction = 2;
                 }
                 
+                    
+            }
             
                 Position SnakeHead = snakeElements.Last();
                 snakeElements.Dequeue();
@@ -73,12 +81,16 @@ namespace JustSnake
                 
                 snakeElements.Enqueue(snakeNewHead);
                 
+                Console.Clear();
+                
                 foreach (Position position in snakeElements )
                 {
                     Console.SetCursorPosition(position.col, position.row);
                     Console.Write("*");
-                    //31:24
+            
                 }
+               
+               Thread.Sleep(100);
                 
             }
         }
