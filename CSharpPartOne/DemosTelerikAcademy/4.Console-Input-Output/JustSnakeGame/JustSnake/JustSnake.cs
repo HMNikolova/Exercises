@@ -31,9 +31,13 @@ namespace JustSnake
                 new Position(-1, 0), //up
             };
              int direction = 0; //0
-             Console.BufferHeight = Console.WindowHeihgt; 
-             Random rand = new Random();
-            //42:13
+              
+             Random randomNumbersGenerator = new Random();
+             Console.BufferHeight = Console.WindowHeihgt;
+             Position food = new Position(randomNumbersGenerator.Next(0, Console.WindowHeight), randomNumbersGenerator.Next(0, WindowWidth));
+             Console.SetCursorPosition(food.col, food.row);
+             Console.Write("@");
+             
             Queue<Position> snakeElements = new Queue<Position>();
             for (int i = 0; i <= 5; i++)
             {
@@ -74,12 +78,29 @@ namespace JustSnake
                     
             }
             
+                
+                
                 Position SnakeHead = snakeElements.Last();
-                snakeElements.Dequeue();
                 Position nextDirection = directions[drection];
                 Position snakeNewHead = new Position(snakeHead.row + nextDirection.row, snakeHead.col + nextDirection.col);
                 
+                if (snakeNewHead.row < 0 || snakeNewHead.col < 0 || snakeNewHead.row >= Console.WindowHeight || snakeNewHead.col >= Console.WindowWidth)
+                {
+                    //56:10
+                }
                 snakeElements.Enqueue(snakeNewHead);
+                
+             if (snakeNewHead.col == food.col && snakeNewHead.row == food.row)
+             {
+                 food = new Position(randomNumbersGenerator.Next(0, Console.WindowHeight), randomNumbersGenerator.Next(0, WindowWidth));
+             }
+             else
+             {
+                 snakeElements.Dequeue();
+             }
+                
+                
+                
                 
                 Console.Clear();
                 
@@ -89,6 +110,11 @@ namespace JustSnake
                     Console.Write("*");
             
                 }
+               
+             
+             Console.SetCursorPosition(food.col, food.row);
+             Console.Write("@");
+             
                
                Thread.Sleep(100);
                 
