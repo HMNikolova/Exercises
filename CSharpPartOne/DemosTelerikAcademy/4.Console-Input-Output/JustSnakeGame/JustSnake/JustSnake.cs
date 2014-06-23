@@ -23,6 +23,12 @@ namespace JustSnake
     {
         static void Main(string[] args)
         {
+            byte right = 0;
+            byte left = 1;
+            byte down = 2;
+            byte up = 3;
+            
+            
             Position[] directions = new Position[]
             {
                 new Position(0, 1), //right
@@ -30,7 +36,8 @@ namespace JustSnake
                 new Position(1, 0), //down
                 new Position(-1, 0), //up
             };
-             int direction = 0; //0
+            double sleepTime = 100;
+             int direction = right; 
               
              Random randomNumbersGenerator = new Random();
              Console.BufferHeight = Console.WindowHeihgt;
@@ -60,19 +67,19 @@ namespace JustSnake
                 
                 if (userInput.Key == ConsoleKey.LeftArrow)
                 {
-                    direction = 1;
+                   if (direction != right) direction = left;
                 }
                 if (userInput.Key == ConsoleKey.RightArrow)
                 {
-                    direction = 0;
+                    if (direction != left) direction = right;
                 }
                 if (userInput.Key == ConsoleKey.UpArrow)
                 {
-                    direction = 3;
+                    if (direction != down) direction = up;
                 }
                 if (userInput.Key == ConsoleKey.DownArrow)
                 {
-                    direction = 2;
+                    if (direction != up) direction = down;
                 }
                 
                     
@@ -95,15 +102,16 @@ namespace JustSnake
                 
              if (snakeNewHead.col == food.col && snakeNewHead.row == food.row)
              {
+                 //feeding the snake
                  food = new Position(randomNumbersGenerator.Next(0, Console.WindowHeight), randomNumbersGenerator.Next(0, WindowWidth));
+                 sleepTime--;
              }
              else
              {
+                 //moving...
                  snakeElements.Dequeue();
              }
                 
-                
-               //1:06:00 
                 
                 Console.Clear();
                 
@@ -118,9 +126,10 @@ namespace JustSnake
              Console.SetCursorPosition(food.col, food.row);
              Console.Write("@");
              
+               sleepTime -- 0.01;
                
-               Thread.Sleep(100);
-                
+               Thread.Sleep((int)sleepTime);
+               1:17:20 
             }
         }
     }
