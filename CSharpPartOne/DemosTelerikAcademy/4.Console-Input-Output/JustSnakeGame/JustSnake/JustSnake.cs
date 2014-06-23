@@ -99,37 +99,30 @@ namespace JustSnake
                     return;
                 }
                 snakeElements.Enqueue(snakeNewHead);
-                
+              Console.CursorPosition(snakeNewHead.col, snakeNewHead.row);
+              Console.Write("*");
              if (snakeNewHead.col == food.col && snakeNewHead.row == food.row)
              {
                  //feeding the snake
+                 1:25:15
                  food = new Position(randomNumbersGenerator.Next(0, Console.WindowHeight), randomNumbersGenerator.Next(0, WindowWidth));
+                 
+                 Console.SetCursorPosition(food.col, food.row);
+             Console.Write("@");
                  sleepTime--;
              }
              else
              {
                  //moving...
-                 snakeElements.Dequeue();
+                Position last = snakeElements.Dequeue();
+                 Console.SetCursirPosition(last.col, last.row);
+                 Console.Write(" ");
              }
                 
-                
-                Console.Clear();
-                
-                foreach (Position position in snakeElements )
-                {
-                    Console.SetCursorPosition(position.col, position.row);
-                    Console.Write("*");
-            
-                }
-               
-             
-             Console.SetCursorPosition(food.col, food.row);
-             Console.Write("@");
-             
                sleepTime -- 0.01;
                
                Thread.Sleep((int)sleepTime);
-               1:17:20 
+               
             }
         }
     }
