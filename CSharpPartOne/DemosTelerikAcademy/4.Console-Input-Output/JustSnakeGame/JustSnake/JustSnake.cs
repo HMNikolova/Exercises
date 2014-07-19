@@ -171,8 +171,11 @@ namespace JustSnake
                      obstacle = new Position(randomNumbersGenerator.Next(0, Console.WindowHeight), randomNumbersGenerator.Next(0, WindowWidth));
                   
                  }
-                 while(snakeElements.Contains(obstacle) || obstacles.Contains(obstacle));
-             //2:07:23
+                 while(snakeElements.Contains(obstacle) || obstacles.Contains(obstacle) || (food.row != obstacle.row && food.col != obstacle.row));
+                 obstacles.Add(obstacle);
+                Console.SetCursorPosition(obstacle.col, obstacle.row);
+                Console.ForegroundColor = ConsoleColor.Cyan;
+                Console.Write("=");
              }
              else
              {
