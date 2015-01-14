@@ -1,4 +1,0 @@
-Telerik-Academy
-===============
-
-Telerik Academy
