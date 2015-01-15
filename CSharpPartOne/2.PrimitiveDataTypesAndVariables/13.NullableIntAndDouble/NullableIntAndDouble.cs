@@ -1,23 +1,26 @@
-﻿/*12. Create a program that assigns null values 
-to an integer and to double variables. Try to print 
-them on the console, try to add some values or the 
-null literal to them and see the result.*/
+﻿//12. Null Values Arithmetic
+
+//Create a program that assigns null values to an integer and to a double variable.
+//Try to print these variables at the console.
+//Try to add some number or the null literal to these variables and print the result.
 
 using System;
 
-    class NullableIntAndDouble
+class NullValuesArithmetic
+{
+    static void Main()
     {
-        static void Main()
-        {
-            int? isNullInteger = null;
-            Console.WriteLine("This is the integer with null value -> {0}", isNullInteger); 
-            isNullInteger = 5;
-            Console.WriteLine("This is the integer with null value 5 -> {0}", isNullInteger);
+        int? intVar = null;
+        double? doubleVar = null;
 
-            double? isNullDouble = null;
-            Console.WriteLine("This is the double with null value -> {0}", isNullDouble);
-            isNullDouble = 10;
-            Console.WriteLine("This is the integer with null value 10 -> {0}", isNullDouble);
-        }
+        Console.WriteLine("Int with value null = {0}", intVar);
+        Console.WriteLine("Double with value null = {0}", doubleVar);
+
+        intVar = 5;
+        doubleVar = 5.5;
+
+        Console.WriteLine("New int value: {0}", intVar.GetValueOrDefault());
+        Console.WriteLine("New double value: {0}", doubleVar.GetValueOrDefault());
     }
+}
 
