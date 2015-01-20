@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestTwo", "TestTwo\TestTwo.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComparisonAndAssignment", "ComparisonAndAssignment\ComparisonAndAssignment.csproj", "{B79AD1D5-F94C-4763-914A-4AAC68B1C4BF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Garden", "Garden\Garden.csproj", "{6CAB07CB-098B-4211-991B-C28118824851}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{B79AD1D5-F94C-4763-914A-4AAC68B1C4BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B79AD1D5-F94C-4763-914A-4AAC68B1C4BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B79AD1D5-F94C-4763-914A-4AAC68B1C4BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6CAB07CB-098B-4211-991B-C28118824851}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CAB07CB-098B-4211-991B-C28118824851}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CAB07CB-098B-4211-991B-C28118824851}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CAB07CB-098B-4211-991B-C28118824851}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
