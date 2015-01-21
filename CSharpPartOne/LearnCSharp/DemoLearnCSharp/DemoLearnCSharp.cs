@@ -45,10 +45,11 @@ namespace DemoLearnCSharp
             //Console.WriteLine("Character entered: " + key.KeyChar);//коя е буквата на този клавиш
 
             //int num = Convert.ToInt32("00000101", 2);//Конвертира двойчното число в десетично
+
             //Console.WriteLine(num);
 
-            string input = Console.ReadLine();//връща String
-            Console.WriteLine(input);
+            Console.ReadLine();//връща String
+            //paste в конзолата - отиваме на properties->quick edit mode->ok и десен бутон в конзолата на това, което искаме да пейстнеме
 
             
 
