@@ -44,17 +44,28 @@ namespace DemoLearnCSharp
             //Console.WriteLine("Special keys: [{0}] ", key.Modifiers);//специален клавиш, ако не е въведен изписва [0]
             //Console.WriteLine("Character entered: " + key.KeyChar);//коя е буквата на този клавиш
 
-            //int num = Convert.ToInt32("00000101", 2);//Конвертира двойчното число в десетично
 
             //Console.WriteLine(num);
 
-            Console.ReadLine();//връща String
+            //Console.ReadLine();//връща String
             //paste в конзолата - отиваме на properties->quick edit mode->ok и десен бутон в конзолата на това, което искаме да пейстнеме
 
-            
+
+            //string str = Console.ReadLine();
+            //int number = int.Parse(str);//parse може да приема int, long, float
+            //int num = int.Parse(Console.ReadLine());//този ред е еквивалентен на горните два, но при дебъгване не се знае какво ще се въвежда
+            //Console.WriteLine("You entered: {0}", number);
+
+            //char symbol = '\u0019';
+            //Console.WriteLine((int)symbol);//експлицитно кастване
 
 
-
+            //int num = Convert.ToInt32("00000101", 2);//конвертира двойчното число в десетично. 2 може да бъде 8 или 16 в зависимост каква бройна система използваме
+            //Console.WriteLine(num);
+            //Console.WriteLine("{0:x}", 198);//както и обратното от десетична в шестнадесетична бройна система
+            //Convert.ToInt32(string) – string --> int
+            //Convert.ToSingle(string)– string --> float
+            //Convert.ToInt64(string)– string --> long
 
 
 
