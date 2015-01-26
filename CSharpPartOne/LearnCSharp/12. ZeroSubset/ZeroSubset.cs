@@ -49,6 +49,7 @@ class ZeroSubset
                         Console.Write("{0} + ", subSetNumbers[j]);
                     }
                 }
+
                 Console.WriteLine(" = " + sum);
             }
         }
