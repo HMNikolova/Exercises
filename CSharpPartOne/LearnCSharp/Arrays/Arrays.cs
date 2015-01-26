@@ -17,6 +17,18 @@ namespace Arrays
                 inputArr[0] = input;
             }
             Console.WriteLine("End");
+            
+            //int[] a = new int[20];
+		//for (int i=0; i<a.Length; i++)
+		//{
+			//a[i] = i * 5;
+			//Console.Write(a[i] + " ");
+		//}
+		
+		
+		
+		//int[,] matrix = new int[8,8];
+		//matrix[0, 0] = 5;
         }
     }
 }
