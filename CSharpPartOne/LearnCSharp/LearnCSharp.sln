@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12. ZeroSubset", "12. ZeroS
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11. LoopsDemo", "11. LoopsDemo\11. LoopsDemo.csproj", "{85AA9FD2-4401-4CAF-8C80-2AF7C28ADE34}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "123", "123\123.csproj", "{BB2603ED-FC20-45A2-AD14-B6A1B876877C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{85AA9FD2-4401-4CAF-8C80-2AF7C28ADE34}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{85AA9FD2-4401-4CAF-8C80-2AF7C28ADE34}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{85AA9FD2-4401-4CAF-8C80-2AF7C28ADE34}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB2603ED-FC20-45A2-AD14-B6A1B876877C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB2603ED-FC20-45A2-AD14-B6A1B876877C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB2603ED-FC20-45A2-AD14-B6A1B876877C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB2603ED-FC20-45A2-AD14-B6A1B876877C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
