@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11. LoopsDemo", "11. LoopsD
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "123", "123\123.csproj", "{BB2603ED-FC20-45A2-AD14-B6A1B876877C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculateFactoriel", "CalculateFactoriel\CalculateFactoriel.csproj", "{71D5F026-4B29-49C1-BD74-574CCF8B5EDA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{BB2603ED-FC20-45A2-AD14-B6A1B876877C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BB2603ED-FC20-45A2-AD14-B6A1B876877C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BB2603ED-FC20-45A2-AD14-B6A1B876877C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71D5F026-4B29-49C1-BD74-574CCF8B5EDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71D5F026-4B29-49C1-BD74-574CCF8B5EDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71D5F026-4B29-49C1-BD74-574CCF8B5EDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71D5F026-4B29-49C1-BD74-574CCF8B5EDA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
