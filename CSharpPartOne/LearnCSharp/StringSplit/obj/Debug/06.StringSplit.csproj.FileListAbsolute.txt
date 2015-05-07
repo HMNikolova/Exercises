@@ -1,0 +1,6 @@
+C:\Users\Христина\Documents\Visual Studio 2013\Projects\Exercises\CSharpPartOne\LearnCSharp\StringSplit\bin\Debug\StringSplit.exe.config
+C:\Users\Христина\Documents\Visual Studio 2013\Projects\Exercises\CSharpPartOne\LearnCSharp\StringSplit\bin\Debug\StringSplit.exe
+C:\Users\Христина\Documents\Visual Studio 2013\Projects\Exercises\CSharpPartOne\LearnCSharp\StringSplit\bin\Debug\StringSplit.pdb
+C:\Users\Христина\Documents\Visual Studio 2013\Projects\Exercises\CSharpPartOne\LearnCSharp\StringSplit\obj\Debug\06.StringSplit.csprojResolveAssemblyReference.cache
+C:\Users\Христина\Documents\Visual Studio 2013\Projects\Exercises\CSharpPartOne\LearnCSharp\StringSplit\obj\Debug\StringSplit.exe
+C:\Users\Христина\Documents\Visual Studio 2013\Projects\Exercises\CSharpPartOne\LearnCSharp\StringSplit\obj\Debug\StringSplit.pdb

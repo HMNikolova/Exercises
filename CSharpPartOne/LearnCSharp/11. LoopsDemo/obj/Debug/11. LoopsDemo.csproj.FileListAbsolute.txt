@@ -1,0 +1,6 @@
+C:\Users\Христина\Documents\Visual Studio 2013\Projects\Exercises\CSharpPartOne\LearnCSharp\11. LoopsDemo\bin\Debug\_11.LoopsDemo.exe.config
+C:\Users\Христина\Documents\Visual Studio 2013\Projects\Exercises\CSharpPartOne\LearnCSharp\11. LoopsDemo\obj\Debug\11. LoopsDemo.csprojResolveAssemblyReference.cache
+C:\Users\Христина\Documents\Visual Studio 2013\Projects\Exercises\CSharpPartOne\LearnCSharp\11. LoopsDemo\bin\Debug\_11.LoopsDemo.exe
+C:\Users\Христина\Documents\Visual Studio 2013\Projects\Exercises\CSharpPartOne\LearnCSharp\11. LoopsDemo\bin\Debug\_11.LoopsDemo.pdb
+C:\Users\Христина\Documents\Visual Studio 2013\Projects\Exercises\CSharpPartOne\LearnCSharp\11. LoopsDemo\obj\Debug\_11.LoopsDemo.exe
+C:\Users\Христина\Documents\Visual Studio 2013\Projects\Exercises\CSharpPartOne\LearnCSharp\11. LoopsDemo\obj\Debug\_11.LoopsDemo.pdb

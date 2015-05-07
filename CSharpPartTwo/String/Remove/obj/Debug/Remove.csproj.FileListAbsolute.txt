@@ -1,0 +1,5 @@
+C:\Users\Христина\Documents\Visual Studio 2013\Projects\Exercises\CSharpPartTwo\String\Remove\bin\Debug\Remove.exe.config
+C:\Users\Христина\Documents\Visual Studio 2013\Projects\Exercises\CSharpPartTwo\String\Remove\bin\Debug\Remove.exe
+C:\Users\Христина\Documents\Visual Studio 2013\Projects\Exercises\CSharpPartTwo\String\Remove\bin\Debug\Remove.pdb
+C:\Users\Христина\Documents\Visual Studio 2013\Projects\Exercises\CSharpPartTwo\String\Remove\obj\Debug\Remove.exe
+C:\Users\Христина\Documents\Visual Studio 2013\Projects\Exercises\CSharpPartTwo\String\Remove\obj\Debug\Remove.pdb

@@ -1,0 +1,6 @@
+C:\Users\Христина\Documents\Visual Studio 2013\Projects\Exercises\CSharpPartTwo\String\ExtractCapitalsLetters\bin\Debug\ExtractCapitalsLetters.exe.config
+C:\Users\Христина\Documents\Visual Studio 2013\Projects\Exercises\CSharpPartTwo\String\ExtractCapitalsLetters\obj\Debug\ExtractCapitalsLetters.csprojResolveAssemblyReference.cache
+C:\Users\Христина\Documents\Visual Studio 2013\Projects\Exercises\CSharpPartTwo\String\ExtractCapitalsLetters\bin\Debug\ExtractCapitalsLetters.exe
+C:\Users\Христина\Documents\Visual Studio 2013\Projects\Exercises\CSharpPartTwo\String\ExtractCapitalsLetters\bin\Debug\ExtractCapitalsLetters.pdb
+C:\Users\Христина\Documents\Visual Studio 2013\Projects\Exercises\CSharpPartTwo\String\ExtractCapitalsLetters\obj\Debug\ExtractCapitalsLetters.exe
+C:\Users\Христина\Documents\Visual Studio 2013\Projects\Exercises\CSharpPartTwo\String\ExtractCapitalsLetters\obj\Debug\ExtractCapitalsLetters.pdb

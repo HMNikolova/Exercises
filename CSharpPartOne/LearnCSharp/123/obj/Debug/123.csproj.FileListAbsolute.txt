@@ -1,0 +1,5 @@
+C:\Users\Христина\Documents\Visual Studio 2013\Projects\Exercises\CSharpPartOne\LearnCSharp\123\bin\Debug\123.exe.config
+C:\Users\Христина\Documents\Visual Studio 2013\Projects\Exercises\CSharpPartOne\LearnCSharp\123\bin\Debug\123.exe
+C:\Users\Христина\Documents\Visual Studio 2013\Projects\Exercises\CSharpPartOne\LearnCSharp\123\bin\Debug\123.pdb
+C:\Users\Христина\Documents\Visual Studio 2013\Projects\Exercises\CSharpPartOne\LearnCSharp\123\obj\Debug\123.exe
+C:\Users\Христина\Documents\Visual Studio 2013\Projects\Exercises\CSharpPartOne\LearnCSharp\123\obj\Debug\123.pdb

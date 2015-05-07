@@ -1,0 +1,6 @@
+C:\Users\Христина\Documents\Visual Studio 2013\Projects\Exercises\CSharpPartTwo\String\IndexOf\bin\Debug\IndexOf.exe.config
+C:\Users\Христина\Documents\Visual Studio 2013\Projects\Exercises\CSharpPartTwo\String\IndexOf\bin\Debug\IndexOf.exe
+C:\Users\Христина\Documents\Visual Studio 2013\Projects\Exercises\CSharpPartTwo\String\IndexOf\bin\Debug\IndexOf.pdb
+C:\Users\Христина\Documents\Visual Studio 2013\Projects\Exercises\CSharpPartTwo\String\IndexOf\obj\Debug\IndexOf.csprojResolveAssemblyReference.cache
+C:\Users\Христина\Documents\Visual Studio 2013\Projects\Exercises\CSharpPartTwo\String\IndexOf\obj\Debug\IndexOf.exe
+C:\Users\Христина\Documents\Visual Studio 2013\Projects\Exercises\CSharpPartTwo\String\IndexOf\obj\Debug\IndexOf.pdb

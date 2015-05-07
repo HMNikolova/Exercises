@@ -1,0 +1,5 @@
+C:\Users\Христина\Documents\Visual Studio 2013\Projects\Test_Telerik_Academy\MyFirstProgram\PrintSequenceOfNumber\bin\Debug\PrintSequenceOfNumber.exe.config
+C:\Users\Христина\Documents\Visual Studio 2013\Projects\Test_Telerik_Academy\MyFirstProgram\PrintSequenceOfNumber\bin\Debug\PrintSequenceOfNumber.exe
+C:\Users\Христина\Documents\Visual Studio 2013\Projects\Test_Telerik_Academy\MyFirstProgram\PrintSequenceOfNumber\bin\Debug\PrintSequenceOfNumber.pdb
+C:\Users\Христина\Documents\Visual Studio 2013\Projects\Test_Telerik_Academy\MyFirstProgram\PrintSequenceOfNumber\obj\Debug\PrintSequenceOfNumber.exe
+C:\Users\Христина\Documents\Visual Studio 2013\Projects\Test_Telerik_Academy\MyFirstProgram\PrintSequenceOfNumber\obj\Debug\PrintSequenceOfNumber.pdb

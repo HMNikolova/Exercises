@@ -1,0 +1,6 @@
+C:\Users\Христина\Documents\Visual Studio 2013\Projects\Exercises\CSharpPartOne\LearnCSharp\07. CompanyInfo\bin\Debug\_07.CompanyInfo.exe.config
+C:\Users\Христина\Documents\Visual Studio 2013\Projects\Exercises\CSharpPartOne\LearnCSharp\07. CompanyInfo\bin\Debug\_07.CompanyInfo.exe
+C:\Users\Христина\Documents\Visual Studio 2013\Projects\Exercises\CSharpPartOne\LearnCSharp\07. CompanyInfo\bin\Debug\_07.CompanyInfo.pdb
+C:\Users\Христина\Documents\Visual Studio 2013\Projects\Exercises\CSharpPartOne\LearnCSharp\07. CompanyInfo\obj\Debug\_07.CompanyInfo.exe
+C:\Users\Христина\Documents\Visual Studio 2013\Projects\Exercises\CSharpPartOne\LearnCSharp\07. CompanyInfo\obj\Debug\_07.CompanyInfo.pdb
+C:\Users\Христина\Documents\Visual Studio 2013\Projects\Exercises\CSharpPartOne\LearnCSharp\07. CompanyInfo\obj\Debug\07. CompanyInfo.csprojResolveAssemblyReference.cache

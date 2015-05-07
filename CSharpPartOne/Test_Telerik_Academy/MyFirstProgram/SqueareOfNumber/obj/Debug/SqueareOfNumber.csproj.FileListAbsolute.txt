@@ -1,0 +1,9 @@
+C:\Users\Христина\Documents\Visual Studio 2013\Projects\Test_Telerik_Academy\MyFirstProgram\SqueareOfNumber\bin\Debug\SqueareOfNumber.exe.config
+C:\Users\Христина\Documents\Visual Studio 2013\Projects\Test_Telerik_Academy\MyFirstProgram\SqueareOfNumber\bin\Debug\SqueareOfNumber.exe
+C:\Users\Христина\Documents\Visual Studio 2013\Projects\Test_Telerik_Academy\MyFirstProgram\SqueareOfNumber\bin\Debug\SqueareOfNumber.pdb
+C:\Users\Христина\Documents\Visual Studio 2013\Projects\Test_Telerik_Academy\MyFirstProgram\SqueareOfNumber\obj\Debug\SqueareOfNumber.csprojResolveAssemblyReference.cache
+C:\Users\Христина\Documents\Visual Studio 2013\Projects\Test_Telerik_Academy\MyFirstProgram\SqueareOfNumber\obj\Debug\SqueareOfNumber.exe
+C:\Users\Христина\Documents\Visual Studio 2013\Projects\Test_Telerik_Academy\MyFirstProgram\SqueareOfNumber\obj\Debug\SqueareOfNumber.pdb
+C:\Users\Христина\Documents\Visual Studio 2013\Test_Telerik_Academy\MyFirstProgram\SqueareOfNumber\bin\Debug\SqueareOfNumber.exe.config
+C:\Users\Христина\Documents\Visual Studio 2013\Test_Telerik_Academy\MyFirstProgram\SqueareOfNumber\obj\Debug\SqueareOfNumber.exe
+C:\Users\Христина\Documents\Visual Studio 2013\Test_Telerik_Academy\MyFirstProgram\SqueareOfNumber\obj\Debug\SqueareOfNumber.pdb

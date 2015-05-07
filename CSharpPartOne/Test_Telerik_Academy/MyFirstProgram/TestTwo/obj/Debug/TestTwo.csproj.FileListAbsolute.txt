@@ -1,0 +1,6 @@
+C:\Users\Христина\Documents\Visual Studio 2013\Test_Telerik_Academy\MyFirstProgram\TestTwo\bin\Debug\TestTwo.exe.config
+C:\Users\Христина\Documents\Visual Studio 2013\Test_Telerik_Academy\MyFirstProgram\TestTwo\bin\Debug\TestTwo.exe
+C:\Users\Христина\Documents\Visual Studio 2013\Test_Telerik_Academy\MyFirstProgram\TestTwo\bin\Debug\TestTwo.pdb
+C:\Users\Христина\Documents\Visual Studio 2013\Test_Telerik_Academy\MyFirstProgram\TestTwo\obj\Debug\TestTwo.exe
+C:\Users\Христина\Documents\Visual Studio 2013\Test_Telerik_Academy\MyFirstProgram\TestTwo\obj\Debug\TestTwo.pdb
+C:\Users\Христина\Documents\Visual Studio 2013\Test_Telerik_Academy\MyFirstProgram\TestTwo\obj\Debug\TestTwo.csprojResolveAssemblyReference.cache

@@ -1,0 +1,1 @@
+C:\Users\Христина\Documents\Visual Studio 2013\Projects\Exercises\CSharpPartOne\LearnCSharp\PrintNumberDoWhile\bin\Debug\PrintNumberDoWhile.exe.config

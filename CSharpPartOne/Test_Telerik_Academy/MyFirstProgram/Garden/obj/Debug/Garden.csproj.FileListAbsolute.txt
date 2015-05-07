@@ -1,0 +1,6 @@
+C:\Users\Христина\Documents\Visual Studio 2013\Projects\Exercises\CSharpPartOne\Test_Telerik_Academy\MyFirstProgram\Garden\bin\Debug\Garden.exe.config
+C:\Users\Христина\Documents\Visual Studio 2013\Projects\Exercises\CSharpPartOne\Test_Telerik_Academy\MyFirstProgram\Garden\bin\Debug\Garden.exe
+C:\Users\Христина\Documents\Visual Studio 2013\Projects\Exercises\CSharpPartOne\Test_Telerik_Academy\MyFirstProgram\Garden\bin\Debug\Garden.pdb
+C:\Users\Христина\Documents\Visual Studio 2013\Projects\Exercises\CSharpPartOne\Test_Telerik_Academy\MyFirstProgram\Garden\obj\Debug\Garden.csprojResolveAssemblyReference.cache
+C:\Users\Христина\Documents\Visual Studio 2013\Projects\Exercises\CSharpPartOne\Test_Telerik_Academy\MyFirstProgram\Garden\obj\Debug\Garden.exe
+C:\Users\Христина\Documents\Visual Studio 2013\Projects\Exercises\CSharpPartOne\Test_Telerik_Academy\MyFirstProgram\Garden\obj\Debug\Garden.pdb

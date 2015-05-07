@@ -1,0 +1,5 @@
+C:\Users\Христина\Documents\Visual Studio 2013\Projects\Exercises\CSharpPartTwo\String\ToStringToFormat\bin\Debug\ToStringToFormat.exe.config
+C:\Users\Христина\Documents\Visual Studio 2013\Projects\Exercises\CSharpPartTwo\String\ToStringToFormat\bin\Debug\ToStringToFormat.exe
+C:\Users\Христина\Documents\Visual Studio 2013\Projects\Exercises\CSharpPartTwo\String\ToStringToFormat\bin\Debug\ToStringToFormat.pdb
+C:\Users\Христина\Documents\Visual Studio 2013\Projects\Exercises\CSharpPartTwo\String\ToStringToFormat\obj\Debug\ToStringToFormat.exe
+C:\Users\Христина\Documents\Visual Studio 2013\Projects\Exercises\CSharpPartTwo\String\ToStringToFormat\obj\Debug\ToStringToFormat.pdb

@@ -1,0 +1,5 @@
+C:\Users\Христина\Documents\Visual Studio 2013\Test_Telerik_Academy\MyFirstProgram\ComparisonAndAssignment\bin\Debug\ComparisonAndAssignment.exe.config
+C:\Users\Христина\Documents\Visual Studio 2013\Test_Telerik_Academy\MyFirstProgram\ComparisonAndAssignment\bin\Debug\ComparisonAndAssignment.exe
+C:\Users\Христина\Documents\Visual Studio 2013\Test_Telerik_Academy\MyFirstProgram\ComparisonAndAssignment\bin\Debug\ComparisonAndAssignment.pdb
+C:\Users\Христина\Documents\Visual Studio 2013\Test_Telerik_Academy\MyFirstProgram\ComparisonAndAssignment\obj\Debug\ComparisonAndAssignment.exe
+C:\Users\Христина\Documents\Visual Studio 2013\Test_Telerik_Academy\MyFirstProgram\ComparisonAndAssignment\obj\Debug\ComparisonAndAssignment.pdb

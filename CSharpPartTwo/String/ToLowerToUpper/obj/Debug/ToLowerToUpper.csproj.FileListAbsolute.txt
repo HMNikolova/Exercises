@@ -1,0 +1,5 @@
+C:\Users\Христина\Documents\Visual Studio 2013\Projects\Exercises\CSharpPartTwo\String\ToLowerToUpper\bin\Debug\ToLowerToUpper.exe.config
+C:\Users\Христина\Documents\Visual Studio 2013\Projects\Exercises\CSharpPartTwo\String\ToLowerToUpper\bin\Debug\ToLowerToUpper.exe
+C:\Users\Христина\Documents\Visual Studio 2013\Projects\Exercises\CSharpPartTwo\String\ToLowerToUpper\bin\Debug\ToLowerToUpper.pdb
+C:\Users\Христина\Documents\Visual Studio 2013\Projects\Exercises\CSharpPartTwo\String\ToLowerToUpper\obj\Debug\ToLowerToUpper.exe
+C:\Users\Христина\Documents\Visual Studio 2013\Projects\Exercises\CSharpPartTwo\String\ToLowerToUpper\obj\Debug\ToLowerToUpper.pdb

@@ -1,0 +1,12 @@
+C:\Users\Христина\Documents\Visual Studio 2013\Projects\Test_Telerik_Academy\MyFirstProgram\AfterTenYaers\bin\Debug\AfterTenYaers.exe.config
+C:\Users\Христина\Documents\Visual Studio 2013\Projects\Test_Telerik_Academy\MyFirstProgram\AfterTenYaers\bin\Debug\AfterTenYaers.exe
+C:\Users\Христина\Documents\Visual Studio 2013\Projects\Test_Telerik_Academy\MyFirstProgram\AfterTenYaers\bin\Debug\AfterTenYaers.pdb
+C:\Users\Христина\Documents\Visual Studio 2013\Projects\Test_Telerik_Academy\MyFirstProgram\AfterTenYaers\obj\Debug\04. AfterTenYaers.csprojResolveAssemblyReference.cache
+C:\Users\Христина\Documents\Visual Studio 2013\Projects\Test_Telerik_Academy\MyFirstProgram\AfterTenYaers\obj\Debug\AfterTenYaers.exe
+C:\Users\Христина\Documents\Visual Studio 2013\Projects\Test_Telerik_Academy\MyFirstProgram\AfterTenYaers\obj\Debug\AfterTenYaers.pdb
+C:\Users\Христина\Documents\Visual Studio 2013\Test_Telerik_Academy\MyFirstProgram\AfterTenYaers\bin\Debug\AfterTenYaers.exe.config
+C:\Users\Христина\Documents\Visual Studio 2013\Test_Telerik_Academy\MyFirstProgram\AfterTenYaers\obj\Debug\AfterTenYaers.exe
+C:\Users\Христина\Documents\Visual Studio 2013\Test_Telerik_Academy\MyFirstProgram\AfterTenYaers\obj\Debug\AfterTenYaers.pdb
+C:\Users\Христина\Documents\Visual Studio 2013\Projects\Exercises\CSharpPartOne\Test_Telerik_Academy\MyFirstProgram\AfterTenYaers\bin\Debug\AfterTenYaers.exe.config
+C:\Users\Христина\Documents\Visual Studio 2013\Projects\Exercises\CSharpPartOne\Test_Telerik_Academy\MyFirstProgram\AfterTenYaers\obj\Debug\AfterTenYaers.exe
+C:\Users\Христина\Documents\Visual Studio 2013\Projects\Exercises\CSharpPartOne\Test_Telerik_Academy\MyFirstProgram\AfterTenYaers\obj\Debug\AfterTenYaers.pdb

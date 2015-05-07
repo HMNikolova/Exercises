@@ -1,0 +1,6 @@
+C:\Users\Христина\Documents\Visual Studio 2013\Projects\Exercises\CSharpPartOne\LearnCSharp\PrintNumberDoWhile\bin\Debug\PrintNumberDoWhile.exe.config
+C:\Users\Христина\Documents\Visual Studio 2013\Projects\Exercises\CSharpPartOne\LearnCSharp\PrintNumberDoWhile\bin\Debug\PrintNumberDoWhile.exe
+C:\Users\Христина\Documents\Visual Studio 2013\Projects\Exercises\CSharpPartOne\LearnCSharp\PrintNumberDoWhile\bin\Debug\PrintNumberDoWhile.pdb
+C:\Users\Христина\Documents\Visual Studio 2013\Projects\Exercises\CSharpPartOne\LearnCSharp\PrintNumberDoWhile\obj\Debug\PrintNumberDoWhile.exe
+C:\Users\Христина\Documents\Visual Studio 2013\Projects\Exercises\CSharpPartOne\LearnCSharp\PrintNumberDoWhile\obj\Debug\PrintNumberDoWhile.pdb
+C:\Users\Христина\Documents\Visual Studio 2013\Projects\Exercises\CSharpPartOne\LearnCSharp\PrintNumberDoWhile\obj\Debug\02.PrintNumberDoWhile.csprojResolveAssemblyReference.cache

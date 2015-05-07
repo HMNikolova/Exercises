@@ -1,0 +1,6 @@
+C:\Users\Христина\Documents\Visual Studio 2013\Projects\Exercises\CSharpPartOne\Test_Telerik_Academy\MyFirstProgram\Game\bin\Debug\Game.exe.config
+C:\Users\Христина\Documents\Visual Studio 2013\Projects\Exercises\CSharpPartOne\Test_Telerik_Academy\MyFirstProgram\Game\bin\Debug\Game.exe
+C:\Users\Христина\Documents\Visual Studio 2013\Projects\Exercises\CSharpPartOne\Test_Telerik_Academy\MyFirstProgram\Game\bin\Debug\Game.pdb
+C:\Users\Христина\Documents\Visual Studio 2013\Projects\Exercises\CSharpPartOne\Test_Telerik_Academy\MyFirstProgram\Game\obj\Debug\Game.csprojResolveAssemblyReference.cache
+C:\Users\Христина\Documents\Visual Studio 2013\Projects\Exercises\CSharpPartOne\Test_Telerik_Academy\MyFirstProgram\Game\obj\Debug\Game.exe
+C:\Users\Христина\Documents\Visual Studio 2013\Projects\Exercises\CSharpPartOne\Test_Telerik_Academy\MyFirstProgram\Game\obj\Debug\Game.pdb

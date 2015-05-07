@@ -1,0 +1,12 @@
+C:\Users\Христина\Documents\Visual Studio 2013\Projects\Test_Telerik_Academy\MyFirstProgram\MyFirstProgram\bin\Debug\MyFirstProgram.exe.config
+C:\Users\Христина\Documents\Visual Studio 2013\Projects\Test_Telerik_Academy\MyFirstProgram\MyFirstProgram\bin\Debug\MyFirstProgram.exe
+C:\Users\Христина\Documents\Visual Studio 2013\Projects\Test_Telerik_Academy\MyFirstProgram\MyFirstProgram\bin\Debug\MyFirstProgram.pdb
+C:\Users\Христина\Documents\Visual Studio 2013\Projects\Test_Telerik_Academy\MyFirstProgram\MyFirstProgram\obj\Debug\MyFirstProgram.csprojResolveAssemblyReference.cache
+C:\Users\Христина\Documents\Visual Studio 2013\Projects\Test_Telerik_Academy\MyFirstProgram\MyFirstProgram\obj\Debug\MyFirstProgram.exe
+C:\Users\Христина\Documents\Visual Studio 2013\Projects\Test_Telerik_Academy\MyFirstProgram\MyFirstProgram\obj\Debug\MyFirstProgram.pdb
+C:\Users\Христина\Documents\Visual Studio 2013\Test_Telerik_Academy\MyFirstProgram\MyFirstProgram\bin\Debug\MyFirstProgram.exe.config
+C:\Users\Христина\Documents\Visual Studio 2013\Test_Telerik_Academy\MyFirstProgram\MyFirstProgram\obj\Debug\MyFirstProgram.exe
+C:\Users\Христина\Documents\Visual Studio 2013\Test_Telerik_Academy\MyFirstProgram\MyFirstProgram\obj\Debug\MyFirstProgram.pdb
+C:\Users\Христина\Documents\Visual Studio 2013\Projects\Exercises\CSharpPartOne\Test_Telerik_Academy\MyFirstProgram\MyFirstProgram\bin\Debug\MyFirstProgram.exe.config
+C:\Users\Христина\Documents\Visual Studio 2013\Projects\Exercises\CSharpPartOne\Test_Telerik_Academy\MyFirstProgram\MyFirstProgram\obj\Debug\MyFirstProgram.exe
+C:\Users\Христина\Documents\Visual Studio 2013\Projects\Exercises\CSharpPartOne\Test_Telerik_Academy\MyFirstProgram\MyFirstProgram\obj\Debug\MyFirstProgram.pdb

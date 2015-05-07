@@ -1,0 +1,6 @@
+C:\Users\Христина\Documents\Visual Studio 2013\Projects\Exercises\CSharpPartTwo\String\StringBuilder\bin\Debug\StringBuilder.exe.config
+C:\Users\Христина\Documents\Visual Studio 2013\Projects\Exercises\CSharpPartTwo\String\StringBuilder\bin\Debug\StringBuilder.exe
+C:\Users\Христина\Documents\Visual Studio 2013\Projects\Exercises\CSharpPartTwo\String\StringBuilder\bin\Debug\StringBuilder.pdb
+C:\Users\Христина\Documents\Visual Studio 2013\Projects\Exercises\CSharpPartTwo\String\StringBuilder\obj\Debug\StringBuilder.exe
+C:\Users\Христина\Documents\Visual Studio 2013\Projects\Exercises\CSharpPartTwo\String\StringBuilder\obj\Debug\StringBuilder.pdb
+C:\Users\Христина\Documents\Visual Studio 2013\Projects\Exercises\CSharpPartTwo\String\StringBuilder\obj\Debug\StringBuilder.csprojResolveAssemblyReference.cache

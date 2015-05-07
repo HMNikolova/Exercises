@@ -1,0 +1,6 @@
+C:\Users\Христина\Documents\Visual Studio 2013\Projects\Exercises\CSharpPartOne\LearnCSharp\CalculateFactoriel\bin\Debug\CalculateFactoriel.exe.config
+C:\Users\Христина\Documents\Visual Studio 2013\Projects\Exercises\CSharpPartOne\LearnCSharp\CalculateFactoriel\bin\Debug\CalculateFactoriel.exe
+C:\Users\Христина\Documents\Visual Studio 2013\Projects\Exercises\CSharpPartOne\LearnCSharp\CalculateFactoriel\bin\Debug\CalculateFactoriel.pdb
+C:\Users\Христина\Documents\Visual Studio 2013\Projects\Exercises\CSharpPartOne\LearnCSharp\CalculateFactoriel\obj\Debug\CalculateFactoriel.csprojResolveAssemblyReference.cache
+C:\Users\Христина\Documents\Visual Studio 2013\Projects\Exercises\CSharpPartOne\LearnCSharp\CalculateFactoriel\obj\Debug\CalculateFactoriel.exe
+C:\Users\Христина\Documents\Visual Studio 2013\Projects\Exercises\CSharpPartOne\LearnCSharp\CalculateFactoriel\obj\Debug\CalculateFactoriel.pdb

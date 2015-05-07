@@ -1,0 +1,9 @@
+C:\Users\Христина\Documents\Visual Studio 2013\Test_Telerik_Academy\MyFirstProgram\TestTypeTips\bin\Debug\TestTypeTips.exe.config
+C:\Users\Христина\Documents\Visual Studio 2013\Test_Telerik_Academy\MyFirstProgram\TestTypeTips\obj\Debug\TestTypeTips.csprojResolveAssemblyReference.cache
+C:\Users\Христина\Documents\Visual Studio 2013\Test_Telerik_Academy\MyFirstProgram\TestTypeTips\bin\Debug\TestTypeTips.exe
+C:\Users\Христина\Documents\Visual Studio 2013\Test_Telerik_Academy\MyFirstProgram\TestTypeTips\bin\Debug\TestTypeTips.pdb
+C:\Users\Христина\Documents\Visual Studio 2013\Test_Telerik_Academy\MyFirstProgram\TestTypeTips\obj\Debug\TestTypeTips.exe
+C:\Users\Христина\Documents\Visual Studio 2013\Test_Telerik_Academy\MyFirstProgram\TestTypeTips\obj\Debug\TestTypeTips.pdb
+C:\Users\Христина\Documents\Visual Studio 2013\Projects\Exercises\CSharpPartOne\Test_Telerik_Academy\MyFirstProgram\TestTypeTips\bin\Debug\TestTypeTips.exe.config
+C:\Users\Христина\Documents\Visual Studio 2013\Projects\Exercises\CSharpPartOne\Test_Telerik_Academy\MyFirstProgram\TestTypeTips\obj\Debug\TestTypeTips.exe
+C:\Users\Христина\Documents\Visual Studio 2013\Projects\Exercises\CSharpPartOne\Test_Telerik_Academy\MyFirstProgram\TestTypeTips\obj\Debug\TestTypeTips.pdb

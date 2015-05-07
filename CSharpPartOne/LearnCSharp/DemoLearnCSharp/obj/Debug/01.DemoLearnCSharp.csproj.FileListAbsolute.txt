@@ -1,0 +1,6 @@
+C:\Users\Христина\Documents\Visual Studio 2013\Projects\Exercises\CSharpPartOne\LearnCSharp\DemoLearnCSharp\bin\Debug\DemoLearnCSharp.exe.config
+C:\Users\Христина\Documents\Visual Studio 2013\Projects\Exercises\CSharpPartOne\LearnCSharp\DemoLearnCSharp\obj\Debug\DemoLearnCSharp.exe
+C:\Users\Христина\Documents\Visual Studio 2013\Projects\Exercises\CSharpPartOne\LearnCSharp\DemoLearnCSharp\obj\Debug\DemoLearnCSharp.pdb
+C:\Users\Христина\Documents\Visual Studio 2013\Projects\Exercises\CSharpPartOne\LearnCSharp\DemoLearnCSharp\bin\Debug\DemoLearnCSharp.exe
+C:\Users\Христина\Documents\Visual Studio 2013\Projects\Exercises\CSharpPartOne\LearnCSharp\DemoLearnCSharp\bin\Debug\DemoLearnCSharp.pdb
+C:\Users\Христина\Documents\Visual Studio 2013\Projects\Exercises\CSharpPartOne\LearnCSharp\DemoLearnCSharp\obj\Debug\01.DemoLearnCSharp.csprojResolveAssemblyReference.cache

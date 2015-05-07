@@ -1,0 +1,5 @@
+C:\Users\Христина\Documents\Visual Studio 2013\Projects\Exercises\CSharpPartOne\LearnCSharp\09.FallingRocks\bin\Debug\09.FallingRocks.exe.config
+C:\Users\Христина\Documents\Visual Studio 2013\Projects\Exercises\CSharpPartOne\LearnCSharp\09.FallingRocks\bin\Debug\09.FallingRocks.exe
+C:\Users\Христина\Documents\Visual Studio 2013\Projects\Exercises\CSharpPartOne\LearnCSharp\09.FallingRocks\bin\Debug\09.FallingRocks.pdb
+C:\Users\Христина\Documents\Visual Studio 2013\Projects\Exercises\CSharpPartOne\LearnCSharp\09.FallingRocks\obj\Debug\09.FallingRocks.exe
+C:\Users\Христина\Documents\Visual Studio 2013\Projects\Exercises\CSharpPartOne\LearnCSharp\09.FallingRocks\obj\Debug\09.FallingRocks.pdb
