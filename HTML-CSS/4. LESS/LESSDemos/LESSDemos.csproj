@@ -66,6 +66,18 @@
     <Content Include="styles\client-side-less.min.css">
       <DependentUpon>client-side-less.less</DependentUpon>
     </Content>
+    <Content Include="styles\others.css">
+      <DependentUpon>others.less</DependentUpon>
+    </Content>
+    <Content Include="styles\others.min.css">
+      <DependentUpon>others.css</DependentUpon>
+    </Content>
+    <Content Include="styles\Styles.css">
+      <DependentUpon>Styles.less</DependentUpon>
+    </Content>
+    <Content Include="styles\Styles.min.css">
+      <DependentUpon>Styles.css</DependentUpon>
+    </Content>
     <Content Include="styles\whole-demo.css">
       <DependentUpon>whole-demo.less</DependentUpon>
     </Content>
@@ -81,6 +93,14 @@
   <ItemGroup>
     <None Include="styles\client-side-less.less" />
     <Content Include="styles\whole-demo.less" />
+    <Content Include="styles\Styles.less" />
+    <Content Include="styles\Styles.css.map">
+      <DependentUpon>Styles.css</DependentUpon>
+    </Content>
+    <Content Include="styles\others.less" />
+    <Content Include="styles\others.css.map">
+      <DependentUpon>others.css</DependentUpon>
+    </Content>
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>

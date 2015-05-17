@@ -1,0 +1,54 @@
+﻿body {
+    color: red;
+}
+
+.color(dark, @color) {
+    color: darken(@color, 10%);
+}
+
+.color(light, @color){
+    color: lighten(@color, 10%);
+}
+
+p {
+    .color(dark, #aaa);
+}
+span {
+    .color(light, #444);
+}
+
+.calculateSum(@x, @y){
+    @sum:(@x + @y);
+}
+
+p a {
+    .calculateSum(5px, 10px);
+    width: @sum;
+}
+
+@import 'others.less';
+
+.paddingMixin(@size) when (@size > 50px){
+    padding: (@size - 15px);
+}
+
+.paddingMixin(@size) when (@size =< 50px){
+    padding: (@size + 15px);
+}
+
+.myclass {
+    .paddingMixin(25px);
+}
+
+.atherClass{
+    .paddingMixin(60px);
+}
+
+.manyWidths(@index) when (@index < 5){
+    .manyWidths(@index + 1);
+    width: @index * 25px;
+}
+
+h6{
+    .manyWidths(1);
+}
