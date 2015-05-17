@@ -1,0 +1,6 @@
+c:\users\христина\documents\visual studio 2013\Projects\CSSExam\CSSExam\bin\CSSExam.dll.config
+c:\users\христина\documents\visual studio 2013\Projects\CSSExam\CSSExam\bin\CSSExam.dll
+c:\users\христина\documents\visual studio 2013\Projects\CSSExam\CSSExam\bin\CSSExam.pdb
+c:\users\христина\documents\visual studio 2013\Projects\CSSExam\CSSExam\obj\Debug\CSSExam.csprojResolveAssemblyReference.cache
+c:\users\христина\documents\visual studio 2013\Projects\CSSExam\CSSExam\obj\Debug\CSSExam.dll
+c:\users\христина\documents\visual studio 2013\Projects\CSSExam\CSSExam\obj\Debug\CSSExam.pdb

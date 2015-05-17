@@ -1,0 +1,24 @@
+﻿html,
+body {
+  font-family: "Arial";
+  font-size: 14px;
+}
+#root {
+  width: 500px;
+  background-color: #205D99;
+  padding-top: 6px;
+}
+#root .avengers liactive {
+  display: block;
+}
+#root .avengers li label {
+  font-weight: bold;
+  color: #AECFEE;
+}
+#root .avengers li img {
+  display: none;
+}
+#root .avengers li p {
+  color: white;
+}
+/*# sourceMappingURL=main.css.map */

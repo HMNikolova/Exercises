@@ -1,0 +1,6 @@
+C:\Users\Христина\Documents\Visual Studio 2013\Projects\100HTO\100HTO\bin\100HTO.dll.config
+C:\Users\Христина\Documents\Visual Studio 2013\Projects\100HTO\100HTO\bin\100HTO.dll
+C:\Users\Христина\Documents\Visual Studio 2013\Projects\100HTO\100HTO\bin\100HTO.pdb
+C:\Users\Христина\Documents\Visual Studio 2013\Projects\100HTO\100HTO\obj\Debug\100HTO.csprojResolveAssemblyReference.cache
+C:\Users\Христина\Documents\Visual Studio 2013\Projects\100HTO\100HTO\obj\Debug\100HTO.dll
+C:\Users\Христина\Documents\Visual Studio 2013\Projects\100HTO\100HTO\obj\Debug\100HTO.pdb
