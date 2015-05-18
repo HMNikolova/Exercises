@@ -57,10 +57,23 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="hto.html" />
+    <Content Include="images\bgmaps.jpg" />
+    <Content Include="images\maps.ico" />
     <Content Include="index.html" />
+    <Content Include="styles\hto.css">
+      <DependentUpon>hto.less</DependentUpon>
+    </Content>
+    <Content Include="styles\hto.min.css">
+      <DependentUpon>hto.css</DependentUpon>
+    </Content>
     <Content Include="styles\style.less" />
     <Content Include="styles\style.css.map">
       <DependentUpon>style.css</DependentUpon>
+    </Content>
+    <Content Include="styles\hto.less" />
+    <Content Include="styles\hto.css.map">
+      <DependentUpon>hto.css</DependentUpon>
     </Content>
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
