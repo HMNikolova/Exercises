@@ -60,6 +60,7 @@
     <Content Include="hto.html" />
     <Content Include="images\bgmaps.jpg" />
     <Content Include="images\maps.ico" />
+    <Content Include="images\offer3_328.png" />
     <Content Include="index.html" />
     <Content Include="styles\hto.css">
       <DependentUpon>hto.less</DependentUpon>

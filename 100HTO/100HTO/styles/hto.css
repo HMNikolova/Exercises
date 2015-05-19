@@ -1,21 +1,25 @@
 ﻿.clearfix,
-body header div#header-container,
+body header div#logo-container,
+body header div#logo-container h1 a img,
 body header nav,
 body header nav ul,
-body header nav ul li ul.sub-nav-list,
+body header nav ul#main-nav-list,
+body header nav ul#main-nav-list li,
 body section,
+body section nav ul#main-sub-nav-list li .region,
+body section nav ul#main-sub-nav-list li .region .sub-nav-list li,
 body aside {
   zoom: 1;
 }
 .clearfix:after,
-body header div#header-container:after,
+body header div#logo-container:after,
 body header nav:after,
 body header nav ul:after,
 body header nav ul li ul.sub-nav-list:after,
 body section:after,
 body aside:after,
 .clearfix:before,
-body header div#header-container:before,
+body header div#logo-container:before,
 body header nav:before,
 body header nav ul:before,
 body header nav ul li ul.sub-nav-list:before,
@@ -27,7 +31,7 @@ body aside:before {
   overflow: hidden;
 }
 .clearfix:after,
-body header div#header-container:after,
+body header div#logo-container:after,
 body header nav:after,
 body header nav ul:after,
 body header nav ul li ul.sub-nav-list:after,
@@ -46,6 +50,7 @@ h3,
 h4,
 h5,
 h6,
+img,
 input,
 button,
 label,
@@ -90,20 +95,23 @@ body header div#logo-container {
   margin-right: 10px;
 }
 body header div#logo-container h1 a img {
-  width: 100px;
-  height: 60px;
-  border-radius: 10px;
+  width: 150px;
+  height: 100px;
+  border-radius: 20px;
+  margin-left: 10px;
+  margin-top: 10px;
 }
 body header nav ul#main-nav-list {
   list-style-type: none;
-  margin-left: 20px;
+  margin-left: 250px;
   margin-top: 20px;
+  padding-left: 30px;
+  font-weight: bold;
 }
 body header nav ul#main-nav-list li {
   background-color: #B6FF00;
   margin-right: 20px;
   display: inline-block;
-  /*width: 150px; - да сложим широчина на зеленото*/
   text-align: center;
   padding: 10px 10px;
   border-radius: 10px;
@@ -111,6 +119,13 @@ body header nav ul#main-nav-list li {
 body header nav ul#main-nav-list li a {
   color: black;
   text-decoration: none;
+  font-size: 20px;
+}
+body section header h1 {
+  text-align: center;
+  margin-top: 100px;
+  margin-bottom: 50px;
+  font-size: 35px;
 }
 body section nav ul#main-sub-nav-list {
   list-style-type: none;
@@ -130,12 +145,7 @@ body section nav ul#main-sub-nav-list li {
 body section nav ul#main-sub-nav-list li a {
   color: black;
   text-decoration: none;
-}
-body section nav ul#main-sub-nav-list li a .region .sub-nav-list .content .sub-region .sub-sub-nav-list li a {
-  text-decoration: none;
-}
-body section nav ul#main-sub-nav-list li:hover a {
-  text-decoration: underline;
+  font-size: 19px;
 }
 body section nav ul#main-sub-nav-list li:hover .region {
   display: block;
@@ -144,11 +154,12 @@ body section nav ul#main-sub-nav-list li:hover .region .sub-region {
   display: none;
   position: absolute;
   left: 190px;
-  top: 0;
+  top: 10px;
   bottom: 20px;
+  margin: 2px;
 }
-body section nav ul#main-sub-nav-list li:hover .region:hover a {
-  text-decoration: underline;
+body section nav ul#main-sub-nav-list li:hover .region .sub-region li {
+  margin-bottom: 3px;
 }
 body section nav ul#main-sub-nav-list li:hover .region:hover .sub-region {
   display: block;
@@ -157,7 +168,7 @@ body section nav ul#main-sub-nav-list li .region {
   display: none;
   position: absolute;
   left: 0;
-  bottom: -37px;
+  top: 43px;
 }
 body section nav ul#main-sub-nav-list li .region .sub-nav-list {
   list-style-type: none;
@@ -168,5 +179,19 @@ body section nav ul#main-sub-nav-list li .region .sub-nav-list li {
 body section nav ul#main-sub-nav-list li .region .sub-nav-list li a {
   color: white;
   text-decoration: none;
+}
+body section nav ul#main-sub-nav-list li .region .sub-nav-list li a:hover + img {
+  display: block;
+}
+body section nav ul#main-sub-nav-list li .region .sub-nav-list li img {
+  display: none;
+  width: 180px;
+  border-radius: 10px;
+  margin-left: -6px;
+}
+body footer p {
+  text-align: center;
+  font-size: 35px;
+  margin-top: 250px;
 }
 /*# sourceMappingURL=hto.css.map */
