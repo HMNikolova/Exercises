@@ -1,0 +1,6 @@
+C:\Users\Христина\Documents\Visual Studio 2013\Projects\Exercises\CSharpPartOne\1.IntroductionToProgramming\04.PrintNumber1-101-1001\bin\Debug\04.PrintNumber1-101-1001.exe.config
+C:\Users\Христина\Documents\Visual Studio 2013\Projects\Exercises\CSharpPartOne\1.IntroductionToProgramming\04.PrintNumber1-101-1001\obj\Debug\04.PrintNumber1-101-1001.csprojResolveAssemblyReference.cache
+C:\Users\Христина\Documents\Visual Studio 2013\Projects\Exercises\CSharpPartOne\1.IntroductionToProgramming\04.PrintNumber1-101-1001\bin\Debug\04.PrintNumber1-101-1001.exe
+C:\Users\Христина\Documents\Visual Studio 2013\Projects\Exercises\CSharpPartOne\1.IntroductionToProgramming\04.PrintNumber1-101-1001\bin\Debug\04.PrintNumber1-101-1001.pdb
+C:\Users\Христина\Documents\Visual Studio 2013\Projects\Exercises\CSharpPartOne\1.IntroductionToProgramming\04.PrintNumber1-101-1001\obj\Debug\04.PrintNumber1-101-1001.exe
+C:\Users\Христина\Documents\Visual Studio 2013\Projects\Exercises\CSharpPartOne\1.IntroductionToProgramming\04.PrintNumber1-101-1001\obj\Debug\04.PrintNumber1-101-1001.pdb
